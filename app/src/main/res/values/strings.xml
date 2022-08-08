@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Игры для кошек</string>
+    <string name="choose_game">ВЫБЕРИТЕ ИГРУ</string>
+    <string name="to_cat_language">НА КОШАЧИЙ ЯЗЫК</string>
+    <string name="prepared_phrases">ГОТОВЫЕ ФРАЗЫ</string>
+    <string name="your_phrase">ВАША ФРАЗА</string>
+    <string name="enter_phrase">Введите вашу фразу</string>
+    <string name="say_phrase">СКАЗАТЬ</string>
+    <string name="from_cat_language">С КОШАЧЬЕГО ЯЗЫКА</string>
+    <string name="cat_said">ВАШ ПИТОМЕЦ СКАЗАЛ</string>
+</resources>
